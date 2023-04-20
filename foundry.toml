@@ -11,6 +11,7 @@ out = 'out'
 
 [rpc_endpoints]
 mainnet = "${RPC_MAINNET_URL}"
+polygon = "${RPC_POLYGON_URL}"
 
 [fmt]
 bracket_spacing = false
